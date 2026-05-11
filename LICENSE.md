@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ **Features**
+## ✨ **Features**:
 
 - **🚀 Real-Time Viewers Boost** - Increase your Twitch channel visibility instantly
 - **🎯 Smart Algorithm** - Advanced 2026 technology for natural viewer simulation
